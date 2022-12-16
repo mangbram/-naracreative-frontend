@@ -1,0 +1,168 @@
+*{
+    font-family:helvetice;
+}
+.homepage{
+    padding :100px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),#3551b5),url(./image/banner.jpg);
+    width:100%;
+    height:100vh;
+    background-size:cover;
+    color:white;
+    font-size:50px;
+    text-align:center;
+}
+#buttonregister{
+    font-size:14px;
+}
+#logo{
+    width:200px;
+    margin : 0 auto;
+ 
+}
+.ukm{
+    font-size:100px;
+    color:black;
+}
+.registerpage{
+    padding :100px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),#3551b5),url(./image/banner.jpg);
+    width:100%;
+    height:100vh;
+    background-size:cover;
+    color:white;
+    font-size:50px;
+    text-align:center;
+}
+.registerpage p{
+    font-size:14px;
+}
+#buttonlogin{
+    font-size:14px;
+}
+form{
+    font-size:20px;
+    width : 400px;
+    margin : 0 auto;
+    padding : 10px;
+}
+input{
+    border-radius:10px;
+    width: 100%;
+    padding: 5px;
+    outline: 0;
+    border: 1px solid#fff;
+    color: white;
+    background: transparent;
+    font-size: 16px;
+}
+#buttonsubmit{
+    margin : 0 auto;
+    font-size: 24px;
+    color: white;
+    outline: none;
+    background: transparent;
+    border: 1px solid white;
+    width: 100px;
+    border-radius:10px;
+}
+#buttonsubmit span{
+    background: white;
+    height: 100%;
+    width: 0;
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0s;
+}
+#buttonsubmit button:hover{
+    color: black;
+    background-color: white;
+}
+.ukm{
+    padding :100px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),#3551b5),url(./image/banner.jpg);
+    width:100%;
+    height:100vh;
+    background-size:cover;
+    color:white;
+    font-size:50px;
+    text-align:center;
+}
+#buttonhome{
+    margin : 0 auto;
+    font-size: 24px;
+    color: white;
+    outline: none;
+    background: transparent;
+    border: 1px solid white;
+    width: 200px;
+    border-radius:10px;
+}
+#buttonhome span{
+    background: white;
+    height: 100%;
+    width: 0;
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0s;
+}
+ button:hover{
+    color: black;
+    background-color: white;
+}
+.drumband h3, h5, p, {
+    font-size: 24px;
+    align-text:left;
+    border:2px solid white;
+}
+#listukm{
+    background:black;
+}
+#drumband{
+    
+}
+footer{
+
+}
+.profile{
+    padding :100px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),#3551b5),url(./image/banner.jpg);
+    width:100%;
+    height:100vh;
+    background-size:cover;
+    color:white;
+    font-size:50px;
+    text-align:center;
+}
+.profile h2{
+    font-size : 50px;
+}
+.profile p{
+    font-size:30px;
+}
+.fotoabout{
+    width:180px;
+}
+.komang{
+    width:200px;
+}
+.rifqi{
+    width : 200px;
+}
+.selvi{
+    width:200px;
+}
+.komang, h3, h3{
+    font-size:24px;
+}
+.rifqi, h3, h3{
+    font-size:24px;
+}
+.selvi, h3, h3{
+    font-size:24px;
+}
