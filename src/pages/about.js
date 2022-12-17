@@ -5,7 +5,7 @@ import Navbar from "./navbar";
 import './style.css';
 import imgkmg from './image/komang.JPG'
 import imgrfq from './image/rifqi1.JPG'
-import imgslv from './image/rifqi1.JPG'
+import imgslv from './image/selvi.JPG'
 
 export default function About() {
   const navigate = useNavigate();
