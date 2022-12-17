@@ -137,7 +137,7 @@ input{
 }
 .fotoabout{
     display: flex;
-    align-items: center;
+    margin : 0 auto;
 }
 .komang{
     width : 200px;
