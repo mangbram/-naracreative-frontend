@@ -2,6 +2,7 @@ import * as React from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import Navbar from "./navbar";
+import Footer from "./footer";
 import './style.css';
 import imgkmg from './image/komang.JPG'
 import imgrfq from './image/rifqi1.JPG'
@@ -30,6 +31,7 @@ export default function About() {
         <h3>320200401018</h3>
         </div>
       </div>
+      <Footer/>
     </>
   );
 }

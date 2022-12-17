@@ -2,6 +2,7 @@ import * as React from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import Navbar from "./navbar";
+import Footer from "./footer";
 
 export default function Register() {
   const navigate = useNavigate();
@@ -58,6 +59,7 @@ export default function Register() {
             <button type ="login"><a href="/login">Sign In</a></button>
           </div>
       </div>
+      <Footer/>
     </>
   );
 }
