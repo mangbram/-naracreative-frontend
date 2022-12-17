@@ -13,7 +13,7 @@ export default function About() {
   return (
     <>
       <Navbar/>
-      <div class="profile">
+      <div class="about">
         <h1>About Us</h1>
         <div class="fotoabout">
         <div class="komang">
