@@ -135,28 +135,22 @@ input{
 .profile p{
     font-size:30px;
 }
+.fotoabout{
+    display: flex;
+    align-items: center;
+}
 .komang{
-    width:500px;
-    float:left;
-    margin: 10px;
+    width : 200px;
+    margin:10px;
+    font-size: 20px;
 }
 .rifqi{
     width : 200px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin:10px;
+    font-size: 20px;
 }
 .selvi{
-    width:200px;
-    float: right;
-    margin: 10px;
-}
-.komang, h3, h3{
-    font-size:24px;
-}
-.rifqi, h3, h3{
-    font-size:24px;
-}
-.selvi, h3, h3{
-    font-size:24px;
+    width : 200px;
+    margin:10px;
+    font-size: 20px;
 }

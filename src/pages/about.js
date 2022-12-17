@@ -15,6 +15,7 @@ export default function About() {
       <Navbar/>
       <div class="profile">
         <h1>About Us</h1>
+        <div class="fotoabout">
         <div class="komang">
         <img class="fotoabout" id="imgkmg" src={imgkmg}></img>
         <h3>I Komang Tri Cahya Bramantara</h3>
@@ -25,10 +26,11 @@ export default function About() {
         <h3>Muhammad Rifqi Fauzan</h3>
         <h3>320200401017</h3>
         </div>
-        <div class="sellvi">
+        <div class="selvi">
         <img class="fotoabout"  id="imgslv" src={imgslv}></img>
         <h3>Nanda Selviana Putri</h3>
         <h3>320200401018</h3>
+        </div>
         </div>
       </div>
       <Footer/>
